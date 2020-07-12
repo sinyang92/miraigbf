@@ -1,0 +1,6 @@
+name: "mirai-gbf"
+author: "Sin Yang"
+version: "0.1.0"
+main: "com.sinyang.miraigbf.PluginMain"
+info: ""
+depends: []
