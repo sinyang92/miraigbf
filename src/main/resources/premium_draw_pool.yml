@@ -1,0 +1,1924 @@
+﻿items:
+  - Id: '1040512500'
+    Name: Acid Bolt Shooter
+    Rare: SSR
+  - Id: '1030401700'
+    Name: Aerial Cane
+    Rare: SR
+  - Id: '1040700400'
+    Name: Aetherial Bow
+    Rare: SSR
+  - Id: '1040018700'
+    Name: Ain Soph
+    Rare: SSR
+  - Id: '1040504300'
+    Name: AK-4A
+    Rare: SSR
+  - Id: '1030001200'
+    Name: Almace
+    Rare: SR
+  - Id: '1040605700'
+    Name: Ancient Bandages
+    Rare: SSR
+  - Id: '1020000200'
+    Name: Anelace
+    Rare: R
+  - Id: '1040009000'
+    Name: Antwerp
+    Rare: SSR
+  - Id: '1030006000'
+    Name: Aquablade
+    Rare: SR
+  - Id: '1020201500'
+    Name: Aquan Killer
+    Rare: R
+  - Id: '1030802100'
+    Name: Aquarium Harp
+    Rare: SR
+  - Id: '1040509600'
+    Name: Arachne
+    Rare: SSR
+  - Id: '1040708600'
+    Name: Arjunan Bow
+    Rare: SSR
+  - Id: '1030000000'
+    Name: Arondight
+    Rare: SR
+  - Id: '1040106300'
+    Name: Arsene
+    Rare: SSR
+  - Id: '1030401300'
+    Name: Arson
+    Rare: SR
+  - Id: '1030404900'
+    Name: Arson Link
+    Rare: SR
+  - Id: '1040000300'
+    Name: Ascalon
+    Rare: SSR
+  - Id: '1020100500'
+    Name: Assassin's Dagger
+    Rare: R
+  - Id: '1030800200'
+    Name: Athanasius
+    Rare: SR
+  - Id: '1030004900'
+    Name: Aura Whip
+    Rare: SR
+  - Id: '1030700100'
+    Name: Aves
+    Rare: SR
+  - Id: '1040100000'
+    Name: Azoth
+    Rare: SSR
+  - Id: '1040311600'
+    Name: Bab-el-Mandeb
+    Rare: SSR
+  - Id: '1030007500'
+    Name: Balisarde
+    Rare: SR
+  - Id: '1020300100'
+    Name: Battle Axe
+    Rare: R
+  - Id: '1040806200'
+    Name: Bell of Happy Endings
+    Rare: SSR
+  - Id: '1040806100'
+    Name: Bella Aeterna
+    Rare: SSR
+  - Id: '1040502500'
+    Name: Benedia
+    Rare: SSR
+  - Id: '1040911400'
+    Name: Black Dragon's Maw
+    Rare: SSR
+  - Id: '1040409900'
+    Name: Black Ouroboros
+    Rare: SSR
+  - Id: '1020601100'
+    Name: Blast Knuckles
+    Rare: R
+  - Id: '1020102200'
+    Name: Bloody Piercer
+    Rare: R
+  - Id: '1040108100'
+    Name: Bloody Scar
+    Rare: SSR
+  - Id: '1040306900'
+    Name: Blossom Axe
+    Rare: SSR
+  - Id: '1020002900'
+    Name: Blue Crest
+    Rare: R
+  - Id: '1040410000'
+    Name: Blue Sphere
+    Rare: SSR
+  - Id: '1040606100'
+    Name: Blushing Blossom Pin
+    Rare: SSR
+  - Id: '1040008700'
+    Name: Blutgang
+    Rare: SSR
+  - Id: '1020602000'
+    Name: Boogie Plates
+    Rare: R
+  - Id: '1030006500'
+    Name: Bottle o' Blossoms
+    Rare: SR
+  - Id: '1040602900'
+    Name: Brahma Gauntlet
+    Rare: SSR
+  - Id: '1040200300'
+    Name: Brionac
+    Rare: SSR
+  - Id: '1030205600'
+    Name: Brocken Lance
+    Rare: SR
+  - Id: '1020102500'
+    Name: Broken Bottle
+    Rare: R
+  - Id: '1020800300'
+    Name: Bronze Bell
+    Rare: R
+  - Id: '1030300200'
+    Name: Bullova
+    Rare: SR
+  - Id: '1040000500'
+    Name: Caladbolg
+    Rare: SSR
+  - Id: '1020400200'
+    Name: Cane
+    Rare: R
+  - Id: '1040609700'
+    Name: Canisius
+    Rare: SSR
+  - Id: '1040408800'
+    Name: Capulet's Oath
+    Rare: SSR
+  - Id: '1040309000'
+    Name: Certificus
+    Rare: SSR
+  - Id: '1030601100'
+    Name: Chain Knuckles
+    Rare: SR
+  - Id: '1020601400'
+    Name: Chopsticks
+    Rare: R
+  - Id: '1040310200'
+    Name: Claidheamh Soluis
+    Rare: SSR
+  - Id: '1040001600'
+    Name: Claíomh Solais
+    Rare: SSR
+  - Id: '1020000000'
+    Name: Claymore
+    Rare: R
+  - Id: '1020102400'
+    Name: Cleaver
+    Rare: R
+  - Id: '1040200000'
+    Name: Cletine
+    Rare: SSR
+  - Id: '1030303600'
+    Name: Cloud Tomahawk
+    Rare: SR
+  - Id: '1040600600'
+    Name: Coco & Mimi
+    Rare: SSR
+  - Id: '1020601900'
+    Name: Cold Noodles
+    Rare: R
+  - Id: '1030503900'
+    Name: Colorful Crackerjack
+    Rare: SR
+  - Id: '1020700300'
+    Name: Composite Bow
+    Rare: R
+  - Id: '1030902900'
+    Name: Confection Cutter
+    Rare: SR
+  - Id: '1040211200'
+    Name: Conifer
+    Rare: SSR
+  - Id: '1040802400'
+    Name: Cords of Heaven Lillah
+    Rare: SSR
+  - Id: '1030608400'
+    Name: Cotton Candy
+    Rare: SR
+  - Id: '1020200500'
+    Name: Couse
+    Rare: R
+  - Id: '1040910900'
+    Name: Crimson Sapphire
+    Rare: SSR
+  - Id: '1030604700'
+    Name: Crimson Talons
+    Rare: SR
+  - Id: '1030606400'
+    Name: Crocskin Glove
+    Rare: SR
+  - Id: '1030500000'
+    Name: Crosswind
+    Rare: SR
+  - Id: '1030605400'
+    Name: Cruel Claw
+    Rare: SR
+  - Id: '1040111400'
+    Name: Crystal Bellflowers
+    Rare: SSR
+  - Id: '1040206600'
+    Name: Crystal Luin
+    Rare: SSR
+  - Id: '1030406100'
+    Name: Cube Staff
+    Rare: SR
+  - Id: '1030603500'
+    Name: Cup and Saucer
+    Rare: SR
+  - Id: '1030403600'
+    Name: Cursed Cane
+    Rare: SR
+  - Id: '1020402100'
+    Name: Cursed Flame Candelabra
+    Rare: R
+  - Id: '1030501300'
+    Name: Custom Arquebus
+    Rare: SR
+  - Id: '1040605900'
+    Name: Cute Ribbon
+    Rare: SSR
+  - Id: '1040808500'
+    Name: Cythara Anglica
+    Rare: SSR
+  - Id: '1040209600'
+    Name: Daemon's Spine
+    Rare: SSR
+  - Id: '1040000000'
+    Name: Dainsleif
+    Rare: SSR
+  - Id: '1020101900'
+    Name: Dark Knife
+    Rare: R
+  - Id: '1020002000'
+    Name: Dark Sword
+    Rare: R
+  - Id: '1030403400'
+    Name: Deathly Arson
+    Rare: SR
+  - Id: '1040004700'
+    Name: Deep Desire
+    Rare: SSR
+  - Id: '1040607200'
+    Name: Deirdre's Claws
+    Rare: SSR
+  - Id: '1040612400'
+    Name: Deirdre's Heart
+    Rare: SSR
+  - Id: '1040212300'
+    Name: Deirdre's Symbol
+    Rare: SSR
+  - Id: '1030005700'
+    Name: Delta Apex
+    Rare: SR
+  - Id: '1040108300'
+    Name: Delta Quartz
+    Rare: SSR
+  - Id: '1030608200'
+    Name: Demitasse
+    Rare: SR
+  - Id: '1020501400'
+    Name: Derringer
+    Rare: R
+  - Id: '1030503100'
+    Name: Desert Arms
+    Rare: SR
+  - Id: '1040101300'
+    Name: Diamond Edge
+    Rare: SSR
+  - Id: '1040008600'
+    Name: Disparia
+    Rare: SSR
+  - Id: '1040808700'
+    Name: Distant Requiem
+    Rare: SSR
+  - Id: '1030206800'
+    Name: Divine Spear
+    Rare: SR
+  - Id: '1030504000'
+    Name: Dolphin
+    Rare: SR
+  - Id: '1040904200'
+    Name: Dormius
+    Rare: SSR
+  - Id: '1040608900'
+    Name: Draco Claw
+    Rare: SSR
+  - Id: '1040211400'
+    Name: Draco Horn
+    Rare: SSR
+  - Id: '1030800500'
+    Name: Dracula Harp
+    Rare: SR
+  - Id: '1040902100'
+    Name: Dragon Slayer
+    Rare: SSR
+  - Id: '1030500100'
+    Name: Dragon Tail
+    Rare: SR
+  - Id: '1020301400'
+    Name: Draph Hammer
+    Rare: R
+  - Id: '1030205000'
+    Name: Dreadflayer
+    Rare: SR
+  - Id: '1020700600'
+    Name: Earth Bow
+    Rare: R
+  - Id: '1020001200'
+    Name: Earth Cutlass
+    Rare: R
+  - Id: '1020201400'
+    Name: Earth Halberd
+    Rare: R
+  - Id: '1020300300'
+    Name: Earth Zaghnal
+    Rare: R
+  - Id: '1040207000'
+    Name: Eden
+    Rare: SSR
+  - Id: '1030003400'
+    Name: Ember Blade
+    Rare: SR
+  - Id: '1020401900'
+    Name: Emerald Cane
+    Rare: R
+  - Id: '1020101800'
+    Name: Emerald Dagger
+    Rare: R
+  - Id: '1040416000'
+    Name: Enchanted Broomstick
+    Rare: SSR
+  - Id: '1020601800'
+    Name: Enchanted Nail
+    Rare: R
+  - Id: '1040709300'
+    Name: Eon
+    Rare: SSR
+  - Id: '1030606900'
+    Name: Epoxy Boogie Plates
+    Rare: SR
+  - Id: '1040006100'
+    Name: Ethereal Lasher
+    Rare: SSR
+  - Id: '1040415400'
+    Name: Euripides
+    Rare: SSR
+  - Id: '1020401800'
+    Name: Evil Wand
+    Rare: R
+  - Id: '1020000300'
+    Name: Falchion
+    Rare: R
+  - Id: '1040014300'
+    Name: Fallen Sword
+    Rare: SSR
+  - Id: '1040500700'
+    Name: Far Away
+    Rare: SSR
+  - Id: '1020400400'
+    Name: Feather Staff
+    Rare: R
+  - Id: '1020400600'
+    Name: Feather Wand
+    Rare: R
+  - Id: '1040211700'
+    Name: Feendrache Pennant
+    Rare: SSR
+  - Id: '1030007800'
+    Name: Festive Frying Pan
+    Rare: SR
+  - Id: '1020102000'
+    Name: Fire Baselard
+    Rare: R
+  - Id: '1020200400'
+    Name: Fire Glaive
+    Rare: R
+  - Id: '1030503000'
+    Name: Fire Piece
+    Rare: SR
+  - Id: '1020000800'
+    Name: Fire Sword
+    Rare: R
+  - Id: '1020601000'
+    Name: Fireball
+    Rare: R
+  - Id: '1020501200'
+    Name: Firecracker
+    Rare: R
+  - Id: '1020600700'
+    Name: Fish Tooth
+    Rare: R
+  - Id: '1040612700'
+    Name: Fist of Destruction
+    Rare: SSR
+  - Id: '1020501500'
+    Name: Flame Bolt
+    Rare: R
+  - Id: '1020700700'
+    Name: Flame Bow
+    Rare: R
+  - Id: '1020201200'
+    Name: Flame Halberd
+    Rare: R
+  - Id: '1020001600'
+    Name: Flame Rapier
+    Rare: R
+  - Id: '1030202600'
+    Name: Flare Glaive
+    Rare: SR
+  - Id: '1030006700'
+    Name: Floaty Sword
+    Rare: SR
+  - Id: '1030403900'
+    Name: Flower Crown
+    Rare: SR
+  - Id: '1030900100'
+    Name: Fluorithium Blade
+    Rare: SR
+  - Id: '1040409000'
+    Name: Forbidden Inferno
+    Rare: SSR
+  - Id: '1040415900'
+    Name: Forbidden Memories
+    Rare: SSR
+  - Id: '1020402700'
+    Name: Forest Hermit Staff
+    Rare: R
+  - Id: '1030000200'
+    Name: Fragarach
+    Rare: SR
+  - Id: '1030303700'
+    Name: Fremel Hammer
+    Rare: SR
+  - Id: '1040012500'
+    Name: Frostbite
+    Rare: SSR
+  - Id: '1040415200'
+    Name: Froststar Staff
+    Rare: SSR
+  - Id: '1030005400'
+    Name: Frying Pan
+    Rare: SR
+  - Id: '1040902600'
+    Name: Fudo-Kuniyuki
+    Rare: SSR
+  - Id: '1040310100'
+    Name: Full Metal Recoil
+    Rare: SSR
+  - Id: '1030101100'
+    Name: Fusetto
+    Rare: SR
+  - Id: '1040806000'
+    Name: Fusion Mobius
+    Rare: SSR
+  - Id: '1040207100'
+    Name: Gae Derg
+    Rare: SSR
+  - Id: '1040212100'
+    Name: Galactic Impact
+    Rare: SSR
+  - Id: '1040211600'
+    Name: Galilei's Insight
+    Rare: SSR
+  - Id: '1040705400'
+    Name: Gallinarius
+    Rare: SSR
+  - Id: '1040404300'
+    Name: Gambanteinn
+    Rare: SSR
+  - Id: '1040708200'
+    Name: Gandiva
+    Rare: SSR
+  - Id: '1040111100'
+    Name: Gandring
+    Rare: SSR
+  - Id: '1040201700'
+    Name: Gargantua
+    Rare: SSR
+  - Id: '1020600000'
+    Name: Gauntlet
+    Rare: R
+  - Id: '1030505300'
+    Name: Genius Squared
+    Rare: SR
+  - Id: '1020201700'
+    Name: Ghillie Fork
+    Rare: R
+  - Id: '1030204800'
+    Name: Giant Fork
+    Rare: SR
+  - Id: '1040909200'
+    Name: Gigante Slicer
+    Rare: SSR
+  - Id: '1030703200'
+    Name: Glass Bow
+    Rare: SR
+  - Id: '1030304300'
+    Name: Gold-Plated Fremel
+    Rare: SR
+  - Id: '1040612100'
+    Name: Golden Dragon
+    Rare: SSR
+  - Id: '1030203500'
+    Name: Golden Mop
+    Rare: SR
+  - Id: '1030303200'
+    Name: Golden Woofer
+    Rare: SR
+  - Id: '1030505400'
+    Name: Goldie
+    Rare: SR
+  - Id: '1040609000'
+    Name: Gothic Cutlery
+    Rare: SSR
+  - Id: '1040016000'
+    Name: Gottfried
+    Rare: SSR
+  - Id: '1040005800'
+    Name: Gram
+    Rare: SSR
+  - Id: '1030006100'
+    Name: Grand Edge
+    Rare: SR
+  - Id: '1030303000'
+    Name: Great Hammer
+    Rare: SR
+  - Id: '1040213900'
+    Name: Great Spear
+    Rare: SSR
+  - Id: '1040001400'
+    Name: Greatsword Andalius
+    Rare: SSR
+  - Id: '1020500200'
+    Name: Grenade
+    Rare: R
+  - Id: '1040409200'
+    Name: Gridarvor
+    Rare: SSR
+  - Id: '1020200200'
+    Name: Halberd
+    Rare: R
+  - Id: '1040311200'
+    Name: Hand Axe
+    Rare: SSR
+  - Id: '1020500900'
+    Name: Hand Pistol
+    Rare: R
+  - Id: '1030504200'
+    Name: Handy Arquebus
+    Rare: SR
+  - Id: '1020301300'
+    Name: Harvester
+    Rare: R
+  - Id: '1040001000'
+    Name: Hauteclaire
+    Rare: SSR
+  - Id: '1020600800'
+    Name: Heated Pata
+    Rare: R
+  - Id: '1040103800'
+    Name: Heaven's Cloud
+    Rare: SSR
+  - Id: '1030604000'
+    Name: Heavy Blast Knuckles
+    Rare: SR
+  - Id: '1020002800'
+    Name: Heavy Metal Comb
+    Rare: R
+  - Id: '1030605900'
+    Name: Heavy-Duty Pumpkins
+    Rare: SR
+  - Id: '1040014000'
+    Name: Heiliges Schwert
+    Rare: SSR
+  - Id: '1040702500'
+    Name: Heroic Bow
+    Rare: SSR
+  - Id: '1040102100'
+    Name: Hoarfrost Blade Persius
+    Rare: SSR
+  - Id: '1030303900'
+    Name: Holy Axe
+    Rare: SR
+  - Id: '1030401400'
+    Name: Holy Cane
+    Rare: SR
+  - Id: '1030604300'
+    Name: Holy Glove
+    Rare: SR
+  - Id: '1030800800'
+    Name: Holy Harp
+    Rare: SR
+  - Id: '1020101700'
+    Name: Holy Kris
+    Rare: R
+  - Id: '1030304900'
+    Name: Horrible Voulge
+    Rare: SR
+  - Id: '1030300300'
+    Name: Horseman's Hammer
+    Rare: SR
+  - Id: '1040001900'
+    Name: Hrotti
+    Rare: SSR
+  - Id: '1030803400'
+    Name: Humming Bard
+    Rare: SR
+  - Id: '1030504500'
+    Name: Hunter's Rifle
+    Rare: SR
+  - Id: '1030404600'
+    Name: Ice Bough Staff
+    Rare: SR
+  - Id: '1030702600'
+    Name: Ice Bow
+    Rare: SR
+  - Id: '1040400900'
+    Name: Ice Crystal Staff
+    Rare: SSR
+  - Id: '1020001700'
+    Name: Ice Sword
+    Rare: R
+  - Id: '1020001400'
+    Name: Icey Nail
+    Rare: R
+  - Id: '1040910000'
+    Name: Ichigo Hitofuri
+    Rare: SSR
+  - Id: '1030000100'
+    Name: Ilhoon
+    Rare: SR
+  - Id: '1040401200'
+    Name: Illusion Scepter
+    Rare: SSR
+  - Id: '1030601000'
+    Name: Impact Knuckles
+    Rare: SR
+  - Id: '1030700600'
+    Name: Imperial Bow
+    Rare: SR
+  - Id: '1040709400'
+    Name: Iridescent Bow
+    Rare: SSR
+  - Id: '1020601700'
+    Name: Iron Guard
+    Rare: R
+  - Id: '1020301900'
+    Name: Iron Pliers
+    Rare: R
+  - Id: '1040510300'
+    Name: Ishtar
+    Rare: SSR
+  - Id: '1040906400'
+    Name: Ixaba
+    Rare: SSR
+  - Id: '1040908400'
+    Name: Izayoi
+    Rare: SSR
+  - Id: '1040102000'
+    Name: Jack-O'-Brand
+    Rare: SSR
+  - Id: '1030600100'
+    Name: Jamadhar
+    Rare: SR
+  - Id: '1020500500'
+    Name: Jezail
+    Rare: R
+  - Id: '1040508700'
+    Name: Jolly Starcracker
+    Rare: SSR
+  - Id: '1030600200'
+    Name: Kaiser Knuckles
+    Rare: SR
+  - Id: '1040403800'
+    Name: Kalaurops
+    Rare: SSR
+  - Id: '1030105400'
+    Name: Katzbalger
+    Rare: SR
+  - Id: '1040400200'
+    Name: Kerykeion
+    Rare: SSR
+  - Id: '1030007400'
+    Name: Kilij
+    Rare: SR
+  - Id: '1030207200'
+    Name: Knight's Beach Banner
+    Rare: SR
+  - Id: '1030900000'
+    Name: Kotetsu
+    Rare: SR
+  - Id: '1020100200'
+    Name: Kris
+    Rare: R
+  - Id: '1030205700'
+    Name: Lance d'Espoir
+    Rare: SR
+  - Id: '1020200900'
+    Name: Langdebeve
+    Rare: R
+  - Id: '1020101300'
+    Name: Leaf Dagger
+    Rare: R
+  - Id: '1040708800'
+    Name: Levin Shooter
+    Rare: SSR
+  - Id: '1020601500'
+    Name: Light Buckler
+    Rare: R
+  - Id: '1020402600'
+    Name: Light Staff
+    Rare: R
+  - Id: '1020001500'
+    Name: Lightbringer
+    Rare: R
+  - Id: '1030008900'
+    Name: Lilac Comb
+    Rare: SR
+  - Id: '1020102600'
+    Name: Little Scarlet
+    Rare: R
+  - Id: '1030903400'
+    Name: Liuyedao
+    Rare: SR
+  - Id: '1040004400'
+    Name: Lohengrin
+    Rare: SSR
+  - Id: '1020700400'
+    Name: Longbow
+    Rare: R
+  - Id: '1040105400'
+    Name: Love Eternal
+    Rare: SSR
+  - Id: '1040203900'
+    Name: Luin
+    Rare: SSR
+  - Id: '1030207000'
+    Name: Lumiel Banner
+    Rare: SR
+  - Id: '1040213600'
+    Name: Lupercalia
+    Rare: SSR
+  - Id: '1020800000'
+    Name: Lyre of Lamia
+    Rare: R
+  - Id: '1030001900'
+    Name: Lyst
+    Rare: SR
+  - Id: '1040003600'
+    Name: Lyst Sin
+    Rare: SSR
+  - Id: '1030206600'
+    Name: Macho Hunter Weapon
+    Rare: SR
+  - Id: '1030007300'
+    Name: Macuahuitl
+    Rare: SR
+  - Id: '1040605600'
+    Name: Magma Gauntlet
+    Rare: SSR
+  - Id: '1020101000'
+    Name: Mailbreaker
+    Rare: R
+  - Id: '1020100600'
+    Name: Mandau
+    Rare: R
+  - Id: '1030303300'
+    Name: Massive Axe
+    Rare: SR
+  - Id: '1040309800'
+    Name: Master Key
+    Rare: SSR
+  - Id: '1020500300'
+    Name: Matchlock
+    Rare: R
+  - Id: '1030600800'
+    Name: Mauler
+    Rare: SR
+  - Id: '1040414000'
+    Name: Medusiana Staff
+    Rare: SSR
+  - Id: '1040802600'
+    Name: Melodic Sphere
+    Rare: SSR
+  - Id: '1030603800'
+    Name: Merciless Chastening
+    Rare: SR
+  - Id: '1040911300'
+    Name: Metal Destroyer
+    Rare: SSR
+  - Id: '1030603400'
+    Name: Metal Glove
+    Rare: SR
+  - Id: '1040606700'
+    Name: Metal Hand
+    Rare: SSR
+  - Id: '1040505900'
+    Name: Meteora
+    Rare: SSR
+  - Id: '1040305700'
+    Name: Mettle
+    Rare: SSR
+  - Id: '1040611600'
+    Name: Midnight Radiance
+    Rare: SSR
+  - Id: '1040902400'
+    Name: Mikazuki
+    Rare: SSR
+  - Id: '1030100100'
+    Name: Mirage Knife
+    Rare: SR
+  - Id: '1040110600'
+    Name: Mirror-Blade Shard
+    Rare: SSR
+  - Id: '1030603900'
+    Name: Misanga Bracelet
+    Rare: SR
+  - Id: '1040003100'
+    Name: Mistilteinn
+    Rare: SSR
+  - Id: '1040802100'
+    Name: Mobius Strip
+    Rare: SSR
+  - Id: '1040408900'
+    Name: Montague's Oath
+    Rare: SSR
+  - Id: '1020301800'
+    Name: Morning Star
+    Rare: R
+  - Id: '1020401600'
+    Name: Moss Tree Staff
+    Rare: R
+  - Id: '1040004600'
+    Name: Murgleis
+    Rare: SSR
+  - Id: '1020600200'
+    Name: Mythril Baghnakhs
+    Rare: R
+  - Id: '1030505500'
+    Name: Mythril Bolt
+    Rare: SR
+  - Id: '1020700000'
+    Name: Mythril Bow
+    Rare: R
+  - Id: '1020900100'
+    Name: Mythril Katana
+    Rare: R
+  - Id: '1020600300'
+    Name: Mythril Knuckles
+    Rare: R
+  - Id: '1030606700'
+    Name: Mythril Tonfa
+    Rare: SR
+  - Id: '1040009300'
+    Name: Nagelring
+    Rare: SSR
+  - Id: '1030201700'
+    Name: Narval
+    Rare: SR
+  - Id: '1030404500'
+    Name: Nature's Mystery
+    Rare: SR
+  - Id: '1020301600'
+    Name: Neckchopper
+    Rare: R
+  - Id: '1030600000'
+    Name: Neko Punch
+    Rare: SR
+  - Id: '1040610900'
+    Name: Neko Punch Pro
+    Rare: SSR
+  - Id: '1040611800'
+    Name: Nibelung Glas
+    Rare: SSR
+  - Id: '1020800200'
+    Name: Night Air Bell
+    Rare: R
+  - Id: '1020800100'
+    Name: Night Bell
+    Rare: R
+  - Id: '1020201600'
+    Name: Night Horn
+    Rare: R
+  - Id: '1040506300'
+    Name: Nightmare Mobilizer
+    Rare: SSR
+  - Id: '1020900000'
+    Name: Nodachi
+    Rare: R
+  - Id: '1040800200'
+    Name: Ocean Harp
+    Rare: SSR
+  - Id: '1020402000'
+    Name: Ocean Rod
+    Rare: R
+  - Id: '1020002200'
+    Name: Old Sword
+    Rare: R
+  - Id: '1040415600'
+    Name: Only for a Cutie
+    Rare: SSR
+  - Id: '1040210900'
+    Name: Orleans Standard
+    Rare: SSR
+  - Id: '1040401100'
+    Name: Ouroboros
+    Rare: SSR
+  - Id: '1040404200'
+    Name: Ouroboros Treat
+    Rare: SSR
+  - Id: '1020601600'
+    Name: Oven Mitts
+    Rare: R
+  - Id: '1020002300'
+    Name: Paper Fan
+    Rare: R
+  - Id: '1040108700'
+    Name: Parazonium
+    Rare: SSR
+  - Id: '1030200200'
+    Name: Partisan
+    Rare: SR
+  - Id: '1030400200'
+    Name: Pastoral Staff
+    Rare: SR
+  - Id: '1020500100'
+    Name: Petronel
+    Rare: R
+  - Id: '1030608100'
+    Name: Phantom Gauntlet
+    Rare: SR
+  - Id: '1040108000'
+    Name: Phantom Thief Blade
+    Rare: SSR
+  - Id: '1040200200'
+    Name: Pilum
+    Rare: SSR
+  - Id: '1040211800'
+    Name: Pinkie Needle
+    Rare: SSR
+  - Id: '1030004800'
+    Name: Pirate Sword
+    Rare: SR
+  - Id: '1040310400'
+    Name: Porculius
+    Rare: SSR
+  - Id: '1020700500'
+    Name: Power Bow
+    Rare: R
+  - Id: '1020002600'
+    Name: Practice Sword
+    Rare: R
+  - Id: '1030008700'
+    Name: Premium Sword
+    Rare: SR
+  - Id: '1030007900'
+    Name: Prideful Sword
+    Rare: SR
+  - Id: '1020002500'
+    Name: Prism Tear
+    Rare: R
+  - Id: '1030101800'
+    Name: Puppet Knife
+    Rare: SR
+  - Id: '1040709000'
+    Name: Purifying Thunderbolt
+    Rare: SSR
+  - Id: '1030002700'
+    Name: Purity Blade
+    Rare: SR
+  - Id: '1030502900'
+    Name: Quarrel
+    Rare: SR
+  - Id: '1030204500'
+    Name: Raging Halberd
+    Rare: SR
+  - Id: '1040905700'
+    Name: Raikiri
+    Rare: SSR
+  - Id: '1040509200'
+    Name: Railgun
+    Rare: SSR
+  - Id: '1030001400'
+    Name: Ram-Dao
+    Rare: SR
+  - Id: '1040202800'
+    Name: Ramulus
+    Rare: SSR
+  - Id: '1020501100'
+    Name: Ranger Pistol
+    Rare: R
+  - Id: '1030606200'
+    Name: Red-Hot Noodles
+    Rare: SR
+  - Id: '1040414400'
+    Name: Returner Staff
+    Rare: SSR
+  - Id: '1040108200'
+    Name: Reunion
+    Rare: SSR
+  - Id: '1030802700'
+    Name: Ripple Harp
+    Rare: SR
+  - Id: '1030002400'
+    Name: Ripple Rapier
+    Rare: SR
+  - Id: '1020601200'
+    Name: Rock Cutter
+    Rare: R
+  - Id: '1020301100'
+    Name: Rock Hammer
+    Rare: R
+  - Id: '1030605600'
+    Name: Rope Knuckles
+    Rare: SR
+  - Id: '1040703300'
+    Name: Roseate Aetherial Bow
+    Rare: SSR
+  - Id: '1040202000'
+    Name: Rosen Maiden
+    Rare: SSR
+  - Id: '1030001800'
+    Name: Royal Rapier
+    Rare: SR
+  - Id: '1020402800'
+    Name: Rubia Rod
+    Rare: R
+  - Id: '1040508800'
+    Name: Ruler of Fate
+    Rare: SSR
+  - Id: '1040610700'
+    Name: Ruling Pen
+    Rare: SSR
+  - Id: '1030404400'
+    Name: Sacred Codex
+    Rare: SR
+  - Id: '1040212000'
+    Name: Sacred Lance
+    Rare: SSR
+  - Id: '1040213400'
+    Name: Sacred Standard
+    Rare: SSR
+  - Id: '1030008200'
+    Name: Samurai Sword
+    Rare: SR
+  - Id: '1040801100'
+    Name: Sandcastle Song-Lume
+    Rare: SSR
+  - Id: '1030700000'
+    Name: Sarnga
+    Rare: SR
+  - Id: '1030900200'
+    Name: Sauria
+    Rare: SR
+  - Id: '1020501300'
+    Name: Sawed-Off Shotgun
+    Rare: R
+  - Id: '1030104700'
+    Name: Scalpel
+    Rare: SR
+  - Id: '1040300700'
+    Name: Scarlet Crest Axe
+    Rare: SSR
+  - Id: '1030405200'
+    Name: Scarlet Oath
+    Rare: SR
+  - Id: '1040602500'
+    Name: Scarlet Vane
+    Rare: SSR
+  - Id: '1040401000'
+    Name: Sealed Claustrum
+    Rare: SSR
+  - Id: '1030605700'
+    Name: Seaside Memory
+    Rare: SR
+  - Id: '1020500800'
+    Name: Self Defender
+    Rare: R
+  - Id: '1030206400'
+    Name: Serpentine Longspear
+    Rare: SR
+  - Id: '1030103900'
+    Name: Shade Knife
+    Rare: SR
+  - Id: '1030700500'
+    Name: Shadow Bow
+    Rare: SR
+  - Id: '1030403800'
+    Name: Shadow Scepter
+    Rare: SR
+  - Id: '1040210300'
+    Name: Shadow Viperlance
+    Rare: SSR
+  - Id: '1020400100'
+    Name: Shareeravadi
+    Rare: R
+  - Id: '1040111200'
+    Name: Sharp Letter
+    Rare: SSR
+  - Id: '1030300100'
+    Name: Shoka
+    Rare: SR
+  - Id: '1030104900'
+    Name: Shrike's Beak
+    Rare: SR
+  - Id: '1020002100'
+    Name: Shrimp Lure
+    Rare: R
+  - Id: '1030200300'
+    Name: Shura Vhara
+    Rare: SR
+  - Id: '1030504900'
+    Name: Signal Flare
+    Rare: SR
+  - Id: '1040414900'
+    Name: Silphium
+    Rare: SSR
+  - Id: '1030007000'
+    Name: Silver Fan
+    Rare: SR
+  - Id: '1020201800'
+    Name: Silver Pole
+    Rare: R
+  - Id: '1030604800'
+    Name: Silver Rings
+    Rare: SR
+  - Id: '1030007100'
+    Name: Silver Shotel
+    Rare: SR
+  - Id: '1040908100'
+    Name: Sinensis
+    Rare: SSR
+  - Id: '1030002600'
+    Name: Skirt Chaser
+    Rare: SR
+  - Id: '1040911500'
+    Name: Sky Ace
+    Rare: SSR
+  - Id: '1020301200'
+    Name: Sky Tomahawk
+    Rare: R
+  - Id: '1040206500'
+    Name: Skyrend Spear
+    Rare: SSR
+  - Id: '1030704100'
+    Name: Slingshot
+    Rare: SR
+  - Id: '1040411500'
+    Name: Snack Pole
+    Rare: SSR
+  - Id: '1030500300'
+    Name: Snaphance
+    Rare: SR
+  - Id: '1020402300'
+    Name: Snowman Rod
+    Rare: R
+  - Id: '1040802700'
+    Name: Snowy Mobius Strip
+    Rare: SSR
+  - Id: '1020301500'
+    Name: Soldier Axe
+    Rare: R
+  - Id: '1030800000'
+    Name: Songsmith's Harp
+    Rare: SR
+  - Id: '1030402900'
+    Name: Soothing Torch
+    Rare: SR
+  - Id: '1040305500'
+    Name: Soul Eater
+    Rare: SSR
+  - Id: '1030102300'
+    Name: Soul Edge
+    Rare: SR
+  - Id: '1030102400'
+    Name: Soulbond Dirk
+    Rare: SR
+  - Id: '1020102700'
+    Name: Spin Blade
+    Rare: R
+  - Id: '1040311400'
+    Name: Spirit Seeker
+    Rare: SSR
+  - Id: '1040306100'
+    Name: Split End
+    Rare: SSR
+  - Id: '1030400700'
+    Name: Spritewood Staff
+    Rare: SR
+  - Id: '1040212800'
+    Name: Spymur's Clause
+    Rare: SSR
+  - Id: '1030405900'
+    Name: Staff of Refusal
+    Rare: SR
+  - Id: '1030405100'
+    Name: Staff of the Star Seeker
+    Rare: SR
+  - Id: '1030504400'
+    Name: Standard Albion Bolt
+    Rare: SR
+  - Id: '1040406800'
+    Name: Starblaze Rings
+    Rare: SSR
+  - Id: '1040409100'
+    Name: Stardust Holly Rod
+    Rare: SSR
+  - Id: '1030100200'
+    Name: Stiletto
+    Rare: SR
+  - Id: '1020402500'
+    Name: Stone Pole
+    Rare: R
+  - Id: '1020501000'
+    Name: Straight Anchor
+    Rare: R
+  - Id: '1040503400'
+    Name: Stratomizer
+    Rare: SSR
+  - Id: '1030800300'
+    Name: Stravaria
+    Rare: SR
+  - Id: '1020402900'
+    Name: Student Notebook
+    Rare: R
+  - Id: '1030606500'
+    Name: Sudarshana
+    Rare: SR
+  - Id: '1030803500'
+    Name: Summer Beach Sphere
+    Rare: SR
+  - Id: '1030606800'
+    Name: Summer Night Peak
+    Rare: SR
+  - Id: '1030007200'
+    Name: Summer Souteyrand
+    Rare: SR
+  - Id: '1040401300'
+    Name: Sunflower Wand
+    Rare: SSR
+  - Id: '1030403500'
+    Name: Sunshade Parasol
+    Rare: SR
+  - Id: '1040207500'
+    Name: Sunspot Spear
+    Rare: SSR
+  - Id: '1030700700'
+    Name: Sutera's Bow
+    Rare: SR
+  - Id: '1030500200'
+    Name: Swallowtail
+    Rare: SR
+  - Id: '1020102300'
+    Name: Switchblade
+    Rare: R
+  - Id: '1030101400'
+    Name: Sword Breaker
+    Rare: SR
+  - Id: '1030102600'
+    Name: Sword of Lisblanc
+    Rare: SR
+  - Id: '1030006900'
+    Name: Sword of Sorcery
+    Rare: SR
+  - Id: '1040016600'
+    Name: Sword on the Cob
+    Rare: SSR
+  - Id: '1040011000'
+    Name: Symbol of Justice
+    Rare: SSR
+  - Id: '1020300000'
+    Name: Tabar
+    Rare: R
+  - Id: '1020400000'
+    Name: Taiaha
+    Rare: R
+  - Id: '1040708700'
+    Name: Taisai Spirit Bow
+    Rare: SSR
+  - Id: '1040908800'
+    Name: Tanzanite Blade
+    Rare: SSR
+  - Id: '1030004500'
+    Name: Tanzanite Sword Mikoh
+    Rare: SR
+  - Id: '1020602100'
+    Name: Tattoo Fist
+    Rare: R
+  - Id: '1040312600'
+    Name: Teiwaz
+    Rare: SSR
+  - Id: '1020401500'
+    Name: The Cross
+    Rare: R
+  - Id: '1040110700'
+    Name: Thorny Rose
+    Rare: SSR
+  - Id: '1040101800'
+    Name: Thunder Dirk Jove
+    Rare: SSR
+  - Id: '1020300200'
+    Name: Thunder Kalinga Axe
+    Rare: R
+  - Id: '1020000400'
+    Name: Thunder Rapier
+    Rare: R
+  - Id: '1040409800'
+    Name: Thyrsus
+    Rare: SSR
+  - Id: '1040509000'
+    Name: Tiamat Bolt Prime
+    Rare: SSR
+  - Id: '1020600900'
+    Name: Tidal Wraps
+    Rare: R
+  - Id: '1030601500'
+    Name: Tiger Fang
+    Rare: SR
+  - Id: '1030000300'
+    Name: Tilvung
+    Rare: SR
+  - Id: '1030007700'
+    Name: Time-Tested Iron
+    Rare: SR
+  - Id: '1030204400'
+    Name: Titanium Harpoon
+    Rare: SR
+  - Id: '1040608800'
+    Name: Tlepilli
+    Rare: SSR
+  - Id: '1020601300'
+    Name: Tonfa
+    Rare: R
+  - Id: '1020402400'
+    Name: Torch
+    Rare: R
+  - Id: '1020402200'
+    Name: Tree Wand
+    Rare: R
+  - Id: '1040415500'
+    Name: Trí Bandia
+    Rare: SSR
+  - Id: '1030200700'
+    Name: Trident
+    Rare: SR
+  - Id: '1030605500'
+    Name: Tropical Punch
+    Rare: SR
+  - Id: '1030006300'
+    Name: True Teardrop
+    Rare: SR
+  - Id: '1030405300'
+    Name: Tughril
+    Rare: SR
+  - Id: '1040200800'
+    Name: Turpin Spear
+    Rare: SSR
+  - Id: '1040107800'
+    Name: Twin Helix
+    Rare: SSR
+  - Id: '1030001500'
+    Name: Twisted Dagger
+    Rare: SR
+  - Id: '1040310000'
+    Name: Two-by-Four
+    Rare: SSR
+  - Id: '1020001900'
+    Name: Two-Handed Sword
+    Rare: R
+  - Id: '1030902200'
+    Name: Tyrian Tiger Blade
+    Rare: SR
+  - Id: '1040300000'
+    Name: Ukonvasara
+    Rare: SSR
+  - Id: '1040809100'
+    Name: Unheil
+    Rare: SSR
+  - Id: '1030902800'
+    Name: Unsigned Blade
+    Rare: SR
+  - Id: '1040212900'
+    Name: Vagabond
+    Rare: SSR
+  - Id: '1030200000'
+    Name: Vajranda
+    Rare: SR
+  - Id: '1030605800'
+    Name: Vampire's Nail
+    Rare: SR
+  - Id: '1040301200'
+    Name: Vassago
+    Rare: SSR
+  - Id: '1040900100'
+    Name: Venustas
+    Rare: SSR
+  - Id: '1020002700'
+    Name: Vintage Flat Iron
+    Rare: R
+  - Id: '1040502400'
+    Name: Vlisragna
+    Rare: SSR
+  - Id: '1040212700'
+    Name: Vortex of the Void
+    Rare: SSR
+  - Id: '1030302800'
+    Name: Voulge
+    Rare: SR
+  - Id: '1030902000'
+    Name: Wandering Blade
+    Rare: SR
+  - Id: '1020700100'
+    Name: War Bow
+    Rare: R
+  - Id: loons icon
+    Name: Water Balloons
+    Rare: SR
+  - Id: '1020101100'
+    Name: Water Kukri
+    Rare: R
+  - Id: '1020400800'
+    Name: Water Rod
+    Rare: R
+  - Id: '1040304200'
+    Name: Way Flyer
+    Rare: SSR
+  - Id: '1030500800'
+    Name: Wheellock Axe
+    Rare: SR
+  - Id: '1020600600'
+    Name: Whirlwind Wraps
+    Rare: R
+  - Id: '1030005900'
+    Name: White Flag
+    Rare: SR
+  - Id: '1040509400'
+    Name: White Hawk
+    Rare: SSR
+  - Id: '1020002400'
+    Name: White Sword
+    Rare: R
+  - Id: '1030605000'
+    Name: White Talons
+    Rare: SR
+  - Id: '1020301700'
+    Name: Wind Axe
+    Rare: R
+  - Id: '1020401700'
+    Name: Wind Rod
+    Rare: R
+  - Id: '1030402100'
+    Name: Wind-Rhyme Staff
+    Rare: SR
+  - Id: '1040300600'
+    Name: Windflash
+    Rare: SSR
+  - Id: '1040408200'
+    Name: Wing of the Pure
+    Rare: SSR
+  - Id: '1030504800'
+    Name: Winter Wonderbow
+    Rare: SR
+  - Id: '1030403700'
+    Name: Witch's Broom
+    Rare: SR
+  - Id: '1020102100'
+    Name: Wooden Dagger
+    Rare: R
+  - Id: '1020700200'
+    Name: Wrapped Bow
+    Rare: R
+  - Id: '1040309100'
+    Name: Wurtzite Scythe
+    Rare: SSR
+  - Id: '1030105100'
+    Name: Wyrm Claw
+    Rare: SR
+  - Id: '1040610600'
+    Name: Wyrmtiger Claw
+    Rare: SSR
+  - Id: '1020001800'
+    Name: Xiphos
+    Rare: R
+  - Id: '1030401200'
+    Name: Yagrush
+    Rare: SR
+  - Id: '1040009400'
+    Name: Yyrkoon
+    Rare: SSR
+  - Id: '1030901800'
+    Name: Zanbato
+    Rare: SR
+  - Id: '1030400800'
+    Name: Zhonpeli
+    Rare: SR
+  - Id: '2020017000'
+    Name: 剣鮫
+    Rare: R
+  - Id: '2020016000'
+    Name: マイトフィッシュ
+    Rare: R
+  - Id: '2020015000'
+    Name: ジェリー
+    Rare: R
+  - Id: '2020014000'
+    Name: スリーピィ
+    Rare: R
+  - Id: '2020013000'
+    Name: マンドラゴラ
+    Rare: R
+  - Id: '2020012000'
+    Name: ミノタウロス
+    Rare: R
+  - Id: '2020011000'
+    Name: ランページシェル
+    Rare: R
+  - Id: '2020010000'
+    Name: 雨切蜻蛉
+    Rare: R
+  - Id: '2020009000'
+    Name: スケルトン
+    Rare: R
+  - Id: '2020004000'
+    Name: ホーンバード
+    Rare: R
+  - Id: '2030010000'
+    Name: グレイブディガー
+    Rare: SR
+  - Id: '2030009000'
+    Name: ヘルハウンド
+    Rare: SR
+  - Id: '2030008000'
+    Name: マイコニド
+    Rare: SR
+  - Id: '2030007000'
+    Name: ワイバーン
+    Rare: SR
+  - Id: '2030006000'
+    Name: ヒドラ
+    Rare: SR
+  - Id: '2030005000'
+    Name: ゴーレム
+    Rare: SR
+  - Id: '2030003000'
+    Name: グリフォン
+    Rare: SR
+  - Id: '2040005000'
+    Name: Dエンジェル・オリヴィエ
+    Rare: SSR
+  - Id: '2040004000'
+    Name: 雷霆公
+    Rare: SSR
+  - Id: '2040002000'
+    Name: マキュラ・マリウス
+    Rare: SSR
+  - Id: '2040001000'
+    Name: サタン
+    Rare: SSR
+  - Id: '2020024000'
+    Name: ルーマシーグリフォン
+    Rare: R
+  - Id: '2020023000'
+    Name: ウラザナ
+    Rare: R
+  - Id: '2020022000'
+    Name: ケイブバット
+    Rare: R
+  - Id: '2030020000'
+    Name: 風霊エルメンヒルデ
+    Rare: SR
+  - Id: '2030019000'
+    Name: 氷竜ウィリヌス
+    Rare: SR
+  - Id: '2040007000'
+    Name: グラニ
+    Rare: SSR
+  - Id: '2020025000'
+    Name: メルトランサー
+    Rare: R
+  - Id: '2030021000'
+    Name: カーバンクル・アクアマリン
+    Rare: SR
+  - Id: '2040009000'
+    Name: ケツァルカトル
+    Rare: SSR
+  - Id: '2020028000'
+    Name: スライム
+    Rare: R
+  - Id: '2020027000'
+    Name: ランニングトーチ
+    Rare: R
+  - Id: '2030023000'
+    Name: ストーンゴーレム
+    Rare: SR
+  - Id: '2030022000'
+    Name: 火竜ヴレッザレク
+    Rare: SR
+  - Id: '2040003000'
+    Name: バハムート
+    Rare: SSR
+  - Id: '2020029000'
+    Name: インプ
+    Rare: R
+  - Id: '2040012000'
+    Name: リッチ
+    Rare: SSR
+  - Id: '2020032000'
+    Name: 辺獄の亡者
+    Rare: R
+  - Id: '2020031000'
+    Name: トワイライトフライ
+    Rare: R
+  - Id: '2020030000'
+    Name: ボーンネイル
+    Rare: R
+  - Id: '2030028000'
+    Name: ピクシー
+    Rare: SR
+  - Id: '2030025000'
+    Name: ルインガーゴイル
+    Rare: SR
+  - Id: '2040013000'
+    Name: バアル
+    Rare: SSR
+  - Id: '2020026000'
+    Name: ロッド
+    Rare: R
+  - Id: '2030031000'
+    Name: カーバンクル・ガーネット
+    Rare: SR
+  - Id: '2020035000'
+    Name: クロウラー
+    Rare: R
+  - Id: '2020034000'
+    Name: スピリット
+    Rare: R
+  - Id: '2020033000'
+    Name: 風鈴茸
+    Rare: R
+  - Id: '2030034000'
+    Name: カスケードジェリー
+    Rare: SR
+  - Id: '2030033000'
+    Name: 風竜イールシアス
+    Rare: SR
+  - Id: '2040017000'
+    Name: セイレーン
+    Rare: SSR
+  - Id: '2040021000'
+    Name: アテナ
+    Rare: SSR
+  - Id: '2030039000'
+    Name: カーバンクル・オニキス
+    Rare: SR
+  - Id: '2040023000'
+    Name: アポロン
+    Rare: SSR
+  - Id: '2030042000'
+    Name: カーバンクル・オパール
+    Rare: SR
+  - Id: '2040029000'
+    Name: オーディン
+    Rare: SSR
+  - Id: '2040036000'
+    Name: キュベレー
+    Rare: SSR
+  - Id: '2040042000'
+    Name: ナタク
+    Rare: SSR
+  - Id: '2040033000'
+    Name: オケアノス
+    Rare: SSR
+  - Id: '2040056000'
+    Name: ルシフェル
+    Rare: SSR
+  - Id: '2040059000'
+    Name: メドゥーサ
+    Rare: SSR
+  - Id: '2040063000'
+    Name: フラム＝グラス
+    Rare: SSR
+  - Id: '2040065000'
+    Name: ジ・オーダー・グランデ
+    Rare: SSR
+  - Id: '2040053000'
+    Name: サテュロス
+    Rare: SSR
+  - Id: '2040071000'
+    Name: ガルーダ
+    Rare: SSR
+  - Id: '2030024000'
+    Name: カーバンクル・ジルコン
+    Rare: SR
+  - Id: '2040069000'
+    Name: ネプチューン
+    Rare: SSR
+  - Id: '2040080000'
+    Name: ゼウス
+    Rare: SSR
+  - Id: '2040084000'
+    Name: ティターン
+    Rare: SSR
+  - Id: '2040090000'
+    Name: ハデス
+    Rare: SSR
+  - Id: '2040094000'
+    Name: アグニス
+    Rare: SSR
+  - Id: '2040098000'
+    Name: ゼピュロス
+    Rare: SSR
+  - Id: '2040100000'
+    Name: ヴァルナ
+    Rare: SSR
+  - Id: '2040114000'
+    Name: カグヤ
+    Rare: SSR
+  - Id: '2040122000'
+    Name: バイヴカハ
+    Rare: SSR
+  - Id: '2040125000'
+    Name: プロメテウス
+    Rare: SSR
+  - Id: '2040130000'
+    Name: ギルガメッシュ
+    Rare: SSR
+  - Id: '2040134000'
+    Name: アヌビス
+    Rare: SSR
+  - Id: '2040144000'
+    Name: ヘクトル
+    Rare: SSR
+  - Id: '2040160000'
+    Name: カー・オン
+    Rare: SSR
+  - Id: '2040167000'
+    Name: カツウォヌス
+    Rare: SSR
+  - Id: '2040171000'
+    Name: セスランス
+    Rare: SSR
+  - Id: '2040173000'
+    Name: テスカトリポカ
+    Rare: SSR
+  - Id: '2040177000'
+    Name: セト
+    Rare: SSR
+  - Id: '2040180000'
+    Name: テュポーン
+    Rare: SSR
+  - Id: '2040185000'
+    Name: シヴァ
+    Rare: SSR
+  - Id: '2040188000'
+    Name: トール
+    Rare: SSR
+  - Id: '2030080000'
+    Name: クレイゴーレム
+    Rare: SR
+  - Id: '2040105000'
+    Name: ローズクイーン
+    Rare: SSR
+  - Id: '2040205000'
+    Name: ゴッドガード・ブローディア
+    Rare: SSR
+  - Id: '2040212000'
+    Name: ナハト
+    Rare: SSR
+  - Id: '2040216000'
+    Name: アフロディーテ
+    Rare: SSR
+  - Id: '2040221000'
+    Name: シャインホーク・ガルラ
+    Rare: SSR
+  - Id: '2040225000'
+    Name: エウロペ
+    Rare: SSR
+  - Id: '2040229000'
+    Name: ザオシェン
+    Rare: SSR
+  - Id: '2040233000'
+    Name: アンクシャ
+    Rare: SSR
+  - Id: '2040249000'
+    Name: スノウホワイト
+    Rare: SSR
+  - Id: '2040253000'
+    Name: アドラメレク
+    Rare: SSR
+  - Id: '2040261000'
+    Name: グリームニル
+    Rare: SSR
+  - Id: '2040263000'
+    Name: ツクヨミ
+    Rare: SSR
+  - Id: '2040275000'
+    Name: ハールート・マールート
+    Rare: SSR
+  - Id: '2040281000'
+    Name: フレイ
+    Rare: SSR
+  - Id: '2040203000'
+    Name: ウリエル
+    Rare: SSR
+  - Id: '2040285000'
+    Name: ゴリラ
+    Rare: SSR
+  - Id: '2040202000'
+    Name: ラファエル
+    Rare: SSR
+  - Id: '2040293000'
+    Name: マキュラ・マリウス
+    Rare: SSR
+  - Id: '2040296000'
+    Name: ハンサ
+    Rare: SSR
+  - Id: '2040297000'
+    Name: 愛と戦いの神 アナト
+    Rare: SSR
+  - Id: '2040306000'
+    Name: ミカエル
+    Rare: SSR
+  - Id: '2040302000'
+    Name: 気高き水神 ポセイドン
+    Rare: SSR
+  - Id: '2040304000'
+    Name: 白純の霊蝶 シルフ
+    Rare: SSR
+  - Id: '2040311000'
+    Name: ガブリエル
+    Rare: SSR
+  - Id: '2040305000'
+    Name: 冥界の三魔犬 ケルベロス
+    Rare: SSR
+  - Id: '2040310000'
+    Name: 三知一鎧の賢者 マギ
+    Rare: SSR
+  - Id: '2040323000'
+    Name: 破格の戦鬼 マルドゥーク
+    Rare: SSR
+  - Id: '2040326000'
+    Name: 魔鯛
+    Rare: SSR
+  - Id: '2040327000'
+    Name: サリエル
+    Rare: SSR
+  - Id: '2040330000'
+    Name: メタトロン
+    Rare: SSR
+  - Id: '2040333000'
+    Name: ユグドラシル
+    Rare: SSR
+  - Id: '2040335000'
+    Name: サテュロス
+    Rare: SSR
+  - Id: '2040336000'
+    Name: ローズクイーン
+    Rare: SSR
+  - Id: '2040338000'
+    Name: スルト
+    Rare: SSR
+  - Id: '2040340000'
+    Name: 竜吉公主
+    Rare: SSR
+  - Id: '2040342000'
+    Name: ドグー
+    Rare: SSR
+  - Id: '2040344000'
+    Name: エッリル
+    Rare: SSR
+  - Id: '2040347000'
+    Name: ベリアル
+    Rare: SSR
+  - Id: '2040350000'
+    Name: ヘイムダル
+    Rare: SSR
+  - Id: '2040352000'
+    Name: ナイアルラトホテップ
+    Rare: SSR
+  - Id: '2040361000'
+    Name: セキトバ
+    Rare: SSR
+  - Id: '2040363000'
+    Name: カリュブディス
+    Rare: SSR
+  - Id: '2040366000'
+    Name: オウルキャット
+    Rare: SSR
+  - Id: '2040368000'
+    Name: マンモス
+    Rare: SSR
+  - Id: '2040369000'
+    Name: アテナ
+    Rare: SSR
