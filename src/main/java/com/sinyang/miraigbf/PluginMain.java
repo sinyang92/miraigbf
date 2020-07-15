@@ -62,7 +62,6 @@ class PluginMain extends PluginBase {
 
         this.getEventListener().subscribeAlways(GroupMessage.class, (GroupMessage event) -> {
             String content = event.getMessage().contentToString();
-
             processGroupMessage(event, content);
         });
     }
@@ -79,10 +78,6 @@ class PluginMain extends PluginBase {
         } else if (message.equalsIgnoreCase(ABUSE_MIN_KEYWORD)) {
             getScheduler().async(() -> {
                 MessageProcessor.processPraiseAbuse(event, MessageProcessor.ShadiaoType.AbuseMin);
-            });
-        } else if (message.equalsIgnoreCase(ABUSE_MAX_KEYWORD)) {
-            getScheduler().async(() -> {
-                MessageProcessor.processPraiseAbuse(event, MessageProcessor.ShadiaoType.AbuseMax);
             });
         } else if (message.equalsIgnoreCase(PREMIUM_DRAW_KEYWORD)) {
             getScheduler().async(() -> {
