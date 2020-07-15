@@ -1,14 +1,20 @@
 package com.sinyang.miraigbf;
 
+import net.coobird.thumbnailator.Thumbnails;
 import net.mamoe.mirai.console.plugins.ConfigSection;
 
 import javax.imageio.ImageIO;
+import javax.imageio.ImageWriteParam;
+import javax.imageio.ImageWriter;
 import java.awt.image.BufferedImage;
 import java.io.ByteArrayOutputStream;
+import java.io.IOException;
 import java.net.URL;
 import java.util.ArrayList;
+import java.util.Iterator;
 import java.util.List;
 import java.util.Random;
+import java.util.function.BiFunction;
 
 public class PremiumDrawMachine {
     final private String WEAPON_URL_PREFIX = "http://game-a1.granbluefantasy.jp/assets/img/sp/assets/weapon/m/";
@@ -28,17 +34,32 @@ public class PremiumDrawMachine {
         fesLast
     }
 
-    // レジェンドガチャ
+    // レジェンド
     private double[] normalSingleDrawRarities = new double[] {
             0.82, // R
             0.15, // SR
             0.03  // SSR
     };
 
-    // Sレア以上確定ガチャ
+    // Sレア以上確定
     private double[] normalLastDrawRarities = new double[] {
+            0.00, // R
             0.97, // SR
             0.03  // SSR
+    };
+
+    // フェス
+    private double[] fesSingleDrawRarities = new double[] {
+            0.79, // R
+            0.15, // SR
+            0.06  // SSR
+    };
+
+    // フェスSレア以上確定
+    private double[] fesLastDrawRarities = new double[] {
+            0.00, // R
+            0.94, // SR
+            0.06, // SSR
     };
 
     private Rarity getDrawRarity(DrawType drawType) {
@@ -52,9 +73,9 @@ public class PremiumDrawMachine {
         if (drawType == DrawType.normalLast) {
             pool = normalLastDrawRarities;
         } else if (drawType == DrawType.fesSingle) {
-            //TODO
+            pool = fesSingleDrawRarities;
         } else if (drawType == DrawType.fesLast) {
-            //TODO
+            pool = fesLastDrawRarities;
         }
 
         for (int i = 0; i < pool.length; i++) {
@@ -88,10 +109,6 @@ public class PremiumDrawMachine {
             resultsList.add(getDrawRarity(DrawType.normalLast));
         }
 
-        for (int i = 0; i < resultsList.size(); i++) {
-
-        }
-
         return resultsList;
     }
 
@@ -114,6 +131,15 @@ public class PremiumDrawMachine {
         return id;
     }
 
+    private static BufferedImage compressImage(BufferedImage source) {
+        try {
+            return Thumbnails.of(source).scale(1).outputQuality(0.5f).asBufferedImage();
+        } catch (IOException e) {
+            e.printStackTrace();
+            return source;
+        }
+    }
+
     public BufferedImage doPremiumDraw(boolean isFes, List<ConfigSection> rList, List<ConfigSection> srList, List<ConfigSection> ssrList) {
         List<Rarity> resultsList = getPremiumDrawResults(isFes);
         int[][] imageArray = new int[10][];
@@ -129,6 +155,7 @@ public class PremiumDrawMachine {
             try {
                 URL url = new URL(imageUrl);
                 image = ImageIO.read(url);
+                image = compressImage(image);
                 images[i] = image;
             } catch (Exception e) {
                 e.printStackTrace();

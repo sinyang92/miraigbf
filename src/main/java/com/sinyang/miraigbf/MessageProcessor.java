@@ -20,8 +20,15 @@ import java.net.URL;
 import java.util.List;
 
 public class MessageProcessor {
-    final private static String PRAISE_API_URL = "https://chp.shadiao.app/api.php";
+    final private static String PRAISE_API_URL = "https://chp.shadiao.app/api.php?from=" + PluginMain.shadiaoappIdentifier;
+    final private static String ABUSE_MIN_API_URL = "https://nmsl.shadiao.app/api.php?level=min&from=" + PluginMain.shadiaoappIdentifier;
+    final private static String ABUSE_MAX_API_URL = "https://nmsl.shadiao.app/api.php?from=" + PluginMain.shadiaoappIdentifier;
 
+    enum ShadiaoType {
+        Praise,
+        AbuseMin,
+        AbuseMax
+    }
 
     public static boolean processAutoReply(GroupMessage event, String message, ConfigSection autoReplyMap) {
         for (String keyword : autoReplyMap.keySet()) {
@@ -35,11 +42,25 @@ public class MessageProcessor {
         return false;
     }
 
-    public static boolean processPraise(GroupMessage event) {
+    public static boolean processPraiseAbuse(GroupMessage event, ShadiaoType shadiaoType) {
         String result = null;
+        URL url;
 
         try {
-            URL url = new URL(PRAISE_API_URL);
+            switch (shadiaoType) {
+                case AbuseMin:
+                    url = new URL(ABUSE_MIN_API_URL);
+                    break;
+
+                case AbuseMax:
+                    url = new URL(ABUSE_MAX_API_URL);
+                    break;
+
+                default:
+                    url = new URL(PRAISE_API_URL);
+                    break;
+            }
+
             HttpURLConnection connection = (HttpURLConnection) url.openConnection();
             connection.connect();
             BufferedReader reader = new BufferedReader(new InputStreamReader(connection.getInputStream(), "UTF-8"));
