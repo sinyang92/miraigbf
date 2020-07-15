@@ -15,8 +15,16 @@ import java.util.concurrent.ExecutionException;
 import java.util.concurrent.Future;
 
 class PluginMain extends PluginBase {
+    // Config
+    final private static String CONFIG_FILE = "config.yml";
+
+    // Shadiaoapp identifier
+    public static String shadiaoappIdentifier;
+
     // Keywords
     final private static String PRAISE_KEYWORD = "夸我";
+    final private static String ABUSE_MIN_KEYWORD = "骂我";
+    final private static String ABUSE_MAX_KEYWORD = "用力骂我";
     final private static String PREMIUM_DRAW_KEYWORD = "十连";
 
     // Auto Reply
@@ -37,6 +45,8 @@ class PluginMain extends PluginBase {
     public void onLoad() {
         super.onLoad();
 
+        shadiaoappIdentifier = this.loadConfig(CONFIG_FILE).getString("shadiaoapp_identifier");
+
         // Load Auto Reply
         this.autoReplyConfig = this.loadConfig(AUTOREPLY_CONFIG);
         this.autoReplyMap = this.autoReplyConfig.getConfigSection(AUTOREPLY);
@@ -54,55 +64,25 @@ class PluginMain extends PluginBase {
             String content = event.getMessage().contentToString();
 
             processGroupMessage(event, content);
-
-            if (content.contains("at")) {
-                // at
-                event.getGroup().sendMessage(new At(event.getSender()));
-
-            } else if (content.contains("permission")) {
-                // Commented due to method being unsupported in miral-console 0.5.2
-                // 成员权限
-                //event.getGroup().sendMessage(event.getPermission().toString());
-
-            } else if (content.contains("mixed")) {
-                // 复合消息, 通过 .plus 连接两个消息
-                event.getGroup().sendMessage(
-                        MessageUtils.newImage("{01E9451B-70ED-EAE3-B37C-101F1EEBF5B5}.png") // 演示图片, 可能已过期
-                                .plus("Hello") // 文本消息
-                                .plus(new At(event.getSender())) // at 群成员
-                                .plus(AtAll.INSTANCE) // at 全体成员
-                );
-
-            } else if (content.contains("上传图片")) {
-                File file = new File("myImage.jpg");
-                if (file.exists()) {
-                    final Image image = event.getGroup().uploadImage(new File("myImage.jpg"));
-                    // 上传一个图片并得到 Image 类型的 Message
-                    event.getGroup().sendMessage(image); // 发送图片
-
-                    final String imageId = image.getImageId(); // 可以拿到 ID
-                    final Image fromId = MessageUtils.newImage(imageId); // ID 转换得到 Image
-
-                    event.getGroup().sendMessage(fromId);
-                }
-
-            } else if (content.contains("friend")) {
-                final Future<MessageReceipt<Contact>> future = event.getSender().sendMessageAsync("Async send"); // 异步发送
-                try {
-                    future.get();
-                } catch (InterruptedException | ExecutionException e) {
-                    e.printStackTrace();
-                }
-            }
         });
     }
 
     private void processGroupMessage(GroupMessage event, String message) {
+        // Auto Reply does not require exact match
+        // while others do
         if (MessageProcessor.processAutoReply(event, message, this.autoReplyMap)) {
             getLogger().info("Processed auto reply. Skipping...");
-        } else if (message.contains(PRAISE_KEYWORD)) {
+        } else if (message.equalsIgnoreCase(PRAISE_KEYWORD)) {
             getScheduler().async(() -> {
-                MessageProcessor.processPraise(event);
+                MessageProcessor.processPraiseAbuse(event, MessageProcessor.ShadiaoType.Praise);
+            });
+        } else if (message.equalsIgnoreCase(ABUSE_MIN_KEYWORD)) {
+            getScheduler().async(() -> {
+                MessageProcessor.processPraiseAbuse(event, MessageProcessor.ShadiaoType.AbuseMin);
+            });
+        } else if (message.equalsIgnoreCase(ABUSE_MAX_KEYWORD)) {
+            getScheduler().async(() -> {
+                MessageProcessor.processPraiseAbuse(event, MessageProcessor.ShadiaoType.AbuseMax);
             });
         } else if (message.equalsIgnoreCase(PREMIUM_DRAW_KEYWORD)) {
             getScheduler().async(() -> {
